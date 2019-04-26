@@ -1,5 +1,5 @@
 # SimpleRunner
-## Abuot
+## **Acerca de**
   Este proyecto responde a una [actividad](https://docs.google.com/document/d/12l2wP6Ru5j2Ou3QIMeJD6QH6lAYQuRmMksiDeFSwdmQ/edit?usp=sharing) para un curso universitario, desarrollado por un solo estudiante en 24h
 
 ## **Assets**
