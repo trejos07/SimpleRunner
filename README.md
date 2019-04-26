@@ -1,4 +1,7 @@
 # SimpleRunner
+## Abuot
+  Este proyecto responde a una [actividad](https://docs.google.com/document/d/12l2wP6Ru5j2Ou3QIMeJD6QH6lAYQuRmMksiDeFSwdmQ/edit?usp=sharing) para un curso universitario, desarrollado por un solo estudiante en 24h
+
 ## **Assets**
   Assets de terceros utilizados en este proyecto 
   - [Sci Fi Warrior PBR HP](https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi-warrior-pbr-hp-106154).
@@ -9,9 +12,6 @@
   - [SpaceSkies Free](https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503).
   - [Electronic Future City - Free](https://assetstore.unity.com/packages/audio/music/electronic/electronic-future-city-free-21756).
   
-
-
-*SpaceShip Modular:
 
   
  
