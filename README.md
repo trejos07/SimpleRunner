@@ -13,7 +13,7 @@
   - [Electronic Future City - Free](https://assetstore.unity.com/packages/audio/music/electronic/electronic-future-city-free-21756).
   
 ## **Descarga APK**
-  [Simple Runner App](https://docs.google.com/document/d/12l2wP6Ru5j2Ou3QIMeJD6QH6lAYQuRmMksiDeFSwdmQ/edit?usp=sharing)
+  [Simple Runner App](https://drive.google.com/file/d/17NwyztyNBOy62RzYDixSa-2fa5Sk8_gG/view?usp=sharing)
   
 ## **Bugs**
   - El boton Reset no esconde el GUi del Lobby
