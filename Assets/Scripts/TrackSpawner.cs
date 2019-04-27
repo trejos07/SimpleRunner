@@ -79,7 +79,6 @@ public class TrackSpawner : MonoBehaviour
                 time = 0f;
             }
         }
-        Debug.Log("spawneado cada:"+ spawnTime);
     }
     void ShuffleTraks()
     {

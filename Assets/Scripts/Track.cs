@@ -17,7 +17,6 @@ public class Track : MonoBehaviour
 
         set
         {
-            Debug.Log("la velocidad es" + velMov);
 
             velMov = value;
             if (OnVelMovChange != null&&value!=0)
