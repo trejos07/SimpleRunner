@@ -12,6 +12,8 @@
   - [SpaceSkies Free](https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503).
   - [Electronic Future City - Free](https://assetstore.unity.com/packages/audio/music/electronic/electronic-future-city-free-21756).
   
-
+## **Descarga APK**
+  [Simple Runner App](https://docs.google.com/document/d/12l2wP6Ru5j2Ou3QIMeJD6QH6lAYQuRmMksiDeFSwdmQ/edit?usp=sharing)
   
- 
+## **Bugs**
+  - El boton Reset no esconde el GUi del Lobby
