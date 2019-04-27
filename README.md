@@ -17,3 +17,4 @@
   
 ## **Bugs**
   - El boton Reset no esconde el GUi del Lobby
+  - Lag por uso de assets muy pesados 
